@@ -1,0 +1,17 @@
+Name = input("Enter Your Name:")
+Age =  input("Enter Your Age:")
+College = input("Enter Your College Name:")
+Branch = input("Enter Your Branch:")
+Semester = input("Enter Your Semester:")
+CGPA = input("Enter Your CGPA:")
+
+print("-------------------------------------------------------")
+
+print("Name:",Name)
+print("Age:",Age)
+print("College:",College)
+print("Branch:",Branch)
+print("Semester:",Semester)
+print("CGPA:",CGPA)
+
+print("------------------------------------------------------")
